@@ -1,0 +1,19 @@
+digraph {
+	node [shape=box]
+	Start [label="Initial Probability"]
+	A [label="• Perform Surgery
+•(Cost: $18895.30)"]
+	B [label="• Prediction of stone in MRCP
+• Perform MRCP
+• (Cost: $1000)"]
+	C [label="• Prediction of stone in EUS
+• Perform EUS
+• (Cost: $4368.7)"]
+	D [label="• Prediction of stone in ERCP
+• Perform ERCP
+• (Cost: $6769.2)"]
+	Start -> A [label="Prob ≤ 25%"]
+	Start -> B [label="25% < Prob ≤ 50%"]
+	Start -> C [label="50% < Prob ≤ 75%"]
+	Start -> D [label="Prob > 75%"]
+}
