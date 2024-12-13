@@ -1,0 +1,28 @@
+Record ID
+Gender
+Label
+Clinical pancreatitis    Patient must meet the following criteria:     1. Imaging evidence of pancreatitis (CT or MRI/MRCP)     2. Lipase > 3 times upper limit of normal     3. Characteristic abdominal pain
+Clinical cholecystitis (Toyko guidelines 2018)    https://www.mdcalc.com/calc/10130/tokyo-guidelines-acute-cholecystitis-2018    Patient must have a suspected diagnosis (≥1 item in A + ≥1 item in B or C) or definite diagnosis (≥1 item in A, B, and C) to meet entry criteria for severity grading, see table below:    Part A (Local signs of inflammation)       1. Murphy's sign       2. Right upper abdominal quadrant mass, pain, or tenderness    Part B (Systemic signs of inflammation)        1. Fever        2. Elevated CRP        3. Elevated WBC count    Part C (Imaging)        1. Imaging findings characteristic of acute cholecystitis                *e.g. pericholecystic fluid, gallstones/debris.    Cited from Yokoe et al. [7]. Acute hepatitis, other acute abdominal  diseases, and chronic cholecystitis should be excluded  CRP C-reactive protein, RUQ right upper abdominal quadrant, WBC  white blood cell
+Urine urobilinogen (mg/dL; normal < = 1) on presentation  *This is part of standard urinalysis  *If multiple values exist please use first instance during the presentation
+Urine bilirubin, qualitative  *This is part of standard urinalysis  *If multiple values exist please use first instance during the presentation
+First AST aka AST on presentation (U/L)
+First ALT aka ALT on presentation (U/L)
+First Alkaline Phosphatase aka alkaline phosphatase on presentation (U/L)
+First total bilirubin aka bilirubin on presentation (mg/dL)
+Lipase on presentation (U/L)
+AST 24-48 hours after presentation (U/L)    *If there was an intervention prior to this variable (i.e. ERCP, surgery, IR tube) leave this value blank  *If there were multiple labs drawn during this time period use the first set of labs
+ALT 24-48 hours after presentation (U/L)    *If there was an intervention prior to this variable (i.e. ERCP, surgery, IR tube) leave this value blank  *If there were multiple labs drawn during this time period use the first set of labs
+Alkaline phosphatase 24-48 hours after presentation (U/L)    *If there was an intervention prior to this variable (i.e. ERCP, surgery, IR tube) leave this value blank  *If there were multiple labs drawn during this time period use the first set of labs
+Total bilirubin 24-48 hours after presentation (mg/dL)    *If there was an intervention prior to this variable (i.e. ERCP, surgery, IR tube) leave this value blank  *If there were multiple labs drawn during this time period use the first set of labs
+Abdominal Ultrasound performed?    REMINDER: imaging of interest is between initial presentation and prior to any procedures (ie endoscopy, IR drain, surgery). 
+Is there common bile duct (CBD) dilation on abdominal ultrasound (US)?  > 0.6cm (6mm) without cholecystectomy  > 0.8cm (8mm) with cholecystectomy
+CT scan?
+Is there common bile duct (CBD) dilation on CT?  > 0.6cm (6mm) without cholecystectomy  > 0.8cm (8mm) with cholecystectomy
+Was a bile duct stone (choledocholithiasis) found on imaging? Check appropriate box if found on ultrasound, CT scan, and/or MRI/MRCP (choice=Ultrasound)
+Was a bile duct stone (choledocholithiasis) found on imaging? Check appropriate box if found on ultrasound, CT scan, and/or MRI/MRCP (choice=CT scan)
+Total points:
+Age (at time of initial presentation)
+AST <24 hr after presentation
+ALT <24 hr after presentation
+Alkaline phosphatase <24 hr after presentation
+Total bilirubin <24 hr after presentation
